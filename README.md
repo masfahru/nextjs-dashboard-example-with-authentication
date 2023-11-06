@@ -20,6 +20,7 @@ Tech-stack:
 - Install dependencies: `npm i`
 - Copy .env.example to .env
 - Modify .env as per the requirement
+- Run database seed (just for once): `npm run seed`
 - run `npm run dev`
 
 ## Build
